@@ -372,19 +372,19 @@ img {
   z-index: var(--z-back);
 }
 
-.services__html {
+.services__physicalstore {
   width: 95%;
 }
 
-.services__css3 {
+.services__shopee {
   width: 85%;
 }
 
-.services__js {
+.services__lazada {
   width: 65%;
 }
 
-.services__ux {
+.services__grab {
   width: 85%;
 }
 
